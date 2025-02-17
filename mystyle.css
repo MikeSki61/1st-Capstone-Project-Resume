@@ -1,11 +1,13 @@
 body {
-    background-color: rgb(87, 195, 10);
+    background-color: rgb(10, 170, 195);
 }
+
 
 h1 , h2, h3 { 
     text-align: center;
 } 
 
 p {
-    text-align: center;;
+    text-align: center;
 }
+
